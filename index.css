@@ -105,23 +105,23 @@ div p a
 }
  div form label 
     {
-        display: flex; /* Keep it as flex to align items */
-        align-items: center; /* Vertically center the checkbox and text */
-        margin-top:auto; /* Add space above the label */
+        display: flex; 
+        align-items: center; 
+        margin-top:auto;
     }
 
     
 .container {
-    display: flex; /* Enable flexbox */
-    align-items: flex-start; /* Align items at the start */
-    justify-content: center; /* Center items horizontally */
-    margin-top: 20px; /* Give some space from the header */
+    display: flex;
+    align-items: flex-start; 
+    justify-content: center;
+    margin-top: 20px; 
   
 }
 
 .side-image {
-    max-width: 450px; /* Set a max width for the image */
-    height: auto; /* Maintain aspect ratio */
-    margin-right: 10px; /* Space between image and box */
+    max-width: 450px; 
+    height: auto; 
+    margin-right: 10px; 
    
 }
